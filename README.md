@@ -5,11 +5,17 @@ Bu konsol tabanlı uygulama, öğretim görevlileri, dersler ve öğrencilerle i
 ---
 Özellikler
 1-) Öğretim Görevlisi Tanımlama: Ad, soyad ve bölüm bilgisiyle öğretim görevlisi ekleyin.
+
 2-) Ders Tanımlama: Ders adı, kredi ve öğretim görevlisi seçilerek ders ekleyin.
+
 3-) Öğrenci Tanımlama: Öğrenci adı, soyadı ve 11 basamaklı öğrenci numarası girilerek öğrenci ekleyin.
+
 4-) Öğrenciyi Derse Kaydetme: Öğrenci seçilip, mevcut derslerden birine kaydedilir.
+
 5-) Ders Bilgilerini Görüntüleme: Ders adı, kredi ve öğretim görevlisi bilgilerini görüntüleyin.
+
 6-) Kayıtlı Öğretmen ve Dersleri Görüntüleme: Sistemdeki öğretim görevlileri ve dersleri listeleyin.
+
 ---
 Kullanım
 *Uygulamayı başlattığınızda aşağıdaki seçenekler sunulur:
