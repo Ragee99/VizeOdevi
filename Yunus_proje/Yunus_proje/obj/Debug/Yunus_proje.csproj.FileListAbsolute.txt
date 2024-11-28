@@ -1,0 +1,7 @@
+C:\Users\araba\source\repos\Yunus_proje\Yunus_proje\bin\Debug\Yunus_proje.exe.config
+C:\Users\araba\source\repos\Yunus_proje\Yunus_proje\bin\Debug\Yunus_proje.exe
+C:\Users\araba\source\repos\Yunus_proje\Yunus_proje\bin\Debug\Yunus_proje.pdb
+C:\Users\araba\source\repos\Yunus_proje\Yunus_proje\obj\Debug\Yunus_proje.csproj.AssemblyReference.cache
+C:\Users\araba\source\repos\Yunus_proje\Yunus_proje\obj\Debug\Yunus_proje.csproj.CoreCompileInputs.cache
+C:\Users\araba\source\repos\Yunus_proje\Yunus_proje\obj\Debug\Yunus_proje.exe
+C:\Users\araba\source\repos\Yunus_proje\Yunus_proje\obj\Debug\Yunus_proje.pdb
