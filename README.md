@@ -19,6 +19,7 @@ Bu konsol tabanlı uygulama, öğretim görevlileri, dersler ve öğrencilerle i
 
 ---
 Kullanım
+
 *Uygulamayı başlattığınızda aşağıdaki seçenekler sunulur:
 
 1-) Öğretim Görevlisi Tanımla
@@ -37,6 +38,7 @@ Kullanım
 
 ---
 Çalıştırma
+
 1-) Program.cs dosyasını açın.
 
 2-) Projeyi çalıştırın (F5 tuşuna basarak).
